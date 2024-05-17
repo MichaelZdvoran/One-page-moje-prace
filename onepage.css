@@ -11,10 +11,13 @@ body, html {
     display: flex;
     align-items: center;
     justify-content: center;
+    
 }
 .section-number {
     font-size: 5em;
     color: white;
+    display: flex;
+    justify-content:center ;
 }
 #section1 {background-color: #252525;}
 #section2 {background-color: #2e2d2d;}
